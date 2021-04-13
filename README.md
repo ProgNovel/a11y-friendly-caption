@@ -9,4 +9,4 @@ Work under progress.
 A11y friendly caption is made possible by these people:
 
 1. Ram Nura (CEO)
-2. Radhy Ramadhan (Not a CEO)
+2. Radhy Ramadhan (Not CEO)
